@@ -36,7 +36,7 @@
 
 ![6](https://raw.githubusercontent.com/zheng782912/Git/master/Git%20pig/6.JPG)
 
->**eval $(ssh-agent -s)** - 如果能查看到 pid 信息，那么就表示正常运行,然后就可以用 SSH key 来下载代码库。
+- **eval $(ssh-agent -s)** - 如果能查看到 pid 信息，那么就表示正常运行,然后就可以用 SSH key 来下载代码库。
 
 ![7](https://raw.githubusercontent.com/zheng782912/Git/master/Git%20pig/7.JPG)
 
